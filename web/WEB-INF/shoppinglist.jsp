@@ -16,7 +16,7 @@
         
         <p>Hello ${user}</p>
         <a href="<c:url value="/ShoppingList"><c:param name="action" value="Logout"/>
-           </c:url>">Logout</a>
+           </c:url>"> Logout</a>
         
         <h3>LIST</h3>
         <form action="ShoppingList" method="post">
